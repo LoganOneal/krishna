@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://loganoneal.com/</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/about/</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/archive/</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/contact/</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/2018/05/23/allergps.html</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/2018/05/23/the-nature-of-reality.html</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/2018/03/29/should-ai-be-regulated.html</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://loganoneal.com/2018/03/23/dietcoin.html</loc>
+  <lastmod>2018-05-24T13:55:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
